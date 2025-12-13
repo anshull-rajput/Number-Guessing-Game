@@ -17,4 +17,7 @@ and the user tries to guess it with hints provided.
 
 ## ▶ How to Run
 ```bash
+
 python guessing_game.py
+
+---
