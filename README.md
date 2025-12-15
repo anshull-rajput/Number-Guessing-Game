@@ -38,6 +38,7 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
 
 ### 🔹 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git<img width="437" height="310" alt="Screenshot 2025-12-15 211309" src="https://github.com/user-attachments/assets/6483f791-f2dc-4742-ace9-0540b2845648" />
+git clone https://github.com/anshull-rajput/Number-Guessing-Game.git
 
-cd REPO-NAME
+cd Number-Guessing-Game
+
