@@ -31,7 +31,8 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="screenshots/ss1.png" width="700">
+  <img src="<img width="437" height="310" alt="Screenshot 2025-12-15 211309" src="https://github.com/user-attachments/assets/e1d79c67-f42b-405f-9210-29cde02fcc9c" />
+" width="700">
 </p>
 
 <p align="center">
@@ -95,3 +96,4 @@ If this project helped you or inspired you:
 <p align="center">
   Made with ❤ by <b>Anshul Rajput</b>
 </p>
+
