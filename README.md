@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=🚀%20PROJECT%20NAME&fontSize=42&fontAlignY=35&desc=Build%20with%20❤%20to%20Help%20People&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🎯%20Number%20Guessing%20Game&fontSize=40&fontAlignY=35&desc=Test%20Your%20Logic%20%7C%20Have%20Fun%20%7C%20Learn%20Python&descAlignY=55" />
 </p>
 
-<h2 align="center">✨ Your Project Tagline Here ✨</h2>
+<h2 align="center">🎮 Number Guessing Game (Python)</h2>
 
 <p align="center">
-  <b>🌟 A simple, powerful & people-friendly solution 🌟</b>
+  <b>A fun & beginner-friendly CLI game to improve logic building</b>
 </p>
 
 <p align="center">
@@ -16,84 +16,28 @@
 
 ---
 
-## 🌈 Why This Project?
-💡 This project is not just code — it’s an *idea that solves a real problem*.
+## 🌟 About the Project
+This *Number Guessing Game* is a simple yet powerful Python project where the computer randomly selects a number and the player tries to guess it.
 
-✔ Easy to use  
-✔ Beginner friendly  
-✔ Clean logic  
-✔ Real-world impact  
-
-> ⚡ If you like meaningful projects, *this one is for you.*
+🎯 Perfect for:
+- Beginners in Python  
+- Logic building practice  
+- Understanding loops & conditions  
 
 ---
 
-## 📸 Project Preview
-
-<p align="center">
-  <img src="<img width="437" height="310" alt="Screenshot 2025-12-15 211309" src="https://github.com/user-attachments/assets/e1d79c67-f42b-405f-9210-29cde02fcc9c" />
-" width="700">
-</p>
-
-<p align="center">
-  <img src="screenshots/ss2.png" width="700">
-</p>
+## 🧠 How the Game Works
+1️⃣ Computer generates a random number  
+2️⃣ User enters a guess  
+3️⃣ Game gives hints: *Too High / Too Low*  
+4️⃣ Game continues until the correct guess 🎉  
 
 ---
 
-## 🧠 How It Works
-1️⃣ User interacts with the system  
-2️⃣ Smart logic processes the input  
-3️⃣ Useful & human-friendly output is generated  
+## ▶ How to Run the Game
 
-✨ *Simple logic, powerful results*
+### 🔹 Step 1: Clone the Repository
+```bash
+git clone https://github.com/USERNAME/REPO-NAME.git<img width="437" height="310" alt="Screenshot 2025-12-15 211309" src="https://github.com/user-attachments/assets/6483f791-f2dc-4742-ace9-0540b2845648" />
 
----
-
-## 🛠 Tech Stack
-- 🐍 Python  
-- 🧠 Logic Building  
-- 📂 Git & GitHub  
-- 🤖 Basic AI Concepts  
-
----
-
-## 🎯 Who Is This For?
-✅ Students  
-✅ Beginners  
-✅ Developers  
-✅ Anyone who loves *smart & useful projects*
-
----
-
-## 🌟 Future Improvements
-- 🔹 More intelligence  
-- 🔹 Better UI  
-- 🔹 Advanced features  
-- 🔹 Mobile support  
-
----
-
-## 🤝 Contribute
-Contributions are welcome ❤  
-Fork ➜ Improve ➜ Pull Request
-
----
-
-## ⭐ Support This Project
-If this project helped you or inspired you:
-
-<p align="center">
-  <b>🌟 Give it a STAR & spread the love 🌟</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" width="300">
-</p>
-
----
-
-<p align="center">
-  Made with ❤ by <b>Anshul Rajput</b>
-</p>
-
+cd REPO-NAME
