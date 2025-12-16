@@ -30,7 +30,7 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
 1️⃣ Computer generates a random number  
 2️⃣ User enters a guess  
 3️⃣ Game gives hints: *Too High / Too Low*  
-4️⃣ Game continues until the correct guess 🎉  
+4️⃣ Game continues until the correct guess 🎉 🎉 
 
 ---
 
@@ -41,4 +41,5 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
 git clone https://github.com/anshull-rajput/Number-Guessing-Game.git
 
 cd Number-Guessing-Game
+
 
