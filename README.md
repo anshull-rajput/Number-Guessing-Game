@@ -21,6 +21,8 @@
 ## 🌟 About the Project
 This *Number Guessing Game* is a simple yet powerful Python project where the computer randomly selects a number and the player tries to guess it.
 
+---
+
 ## 🎯 Perfect for:
 - Beginners in Python  
 - Logic building practice  
@@ -52,6 +54,7 @@ cd Number-Guessing-Game
 
 
 ---
+
 
 
 
