@@ -42,6 +42,13 @@ git clone https://github.com/anshull-rajput/Number-Guessing-Game.git
 
 cd Number-Guessing-Game
 
+```
+
+---
+
+###⭐ If you like my work, please consider giving a star!
+
+
 
 
 
