@@ -21,7 +21,7 @@
 
 
 
-## 🌟 About the Project
+## *🌟 About the Project*
 This *Number Guessing Game* is a simple yet powerful Python project where the computer randomly selects a number and the player tries to guess it.
 
 </p>
@@ -29,7 +29,7 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🎯 Perfect for:
+## *🎯 Perfect for :*
 - Beginners in Python  
 - Logic building practice  
 - Understanding loops & conditions  
@@ -39,7 +39,7 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🧠 How the Game Works
+## *🧠 How the Game Works*
 1️⃣ Computer generates a random number  
 2️⃣ User enters a guess  
 3️⃣ Game gives hints: *Too High / Too Low*  
@@ -50,7 +50,7 @@ This *Number Guessing Game* is a simple yet powerful Python project where the co
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## ▶ How to Run the Game
+## *▶ How to Run the Game*
 
 ### 🔹 Step 1: Clone the Repository
 ```bash
@@ -66,7 +66,7 @@ cd Number-Guessing-Game
 </p>
 
 
-## 🌐 *Connect with Me*
+## *🌐 Connect with Me*
 <p align="center">
   <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
@@ -78,13 +78,14 @@ cd Number-Guessing-Game
 
 
 
-###  ⭐ If you like my work, please consider giving a star!
+###  *⭐ If you like my work, please consider giving a star!*
 
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
+
 
 
 
