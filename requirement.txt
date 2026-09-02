@@ -1,2 +1,0 @@
-# No external libraries required.
-
